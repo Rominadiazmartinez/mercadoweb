@@ -1,0 +1,34 @@
+{
+    "productos": [
+        {
+            "id": 1,
+            "nombre": "Banana",
+            "img": "./img/banana.png"
+        },
+        {
+            "id": 2,
+            "nombre": "Cebollas",
+            "img": "./img/cebollas.png"
+        },
+        {
+            "id": 3,
+            "nombre": "Pimentón",
+            "img": "./img/pimenton.png"
+        },
+        {
+            "id": 4,
+            "nombre": "Papas",
+            "img": "./img/papas.png"
+        },
+        {
+            "id": 5,
+            "nombre": "Lechuga",
+            "img": "./img/lechuga.png"
+        },
+        {
+            "id": 6,
+            "nombre": "Tomate",
+            "img": "./img/tomate.png"
+        }
+    ]
+}
